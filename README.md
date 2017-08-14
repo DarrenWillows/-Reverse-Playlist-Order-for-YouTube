@@ -1,4 +1,6 @@
 # Reverse Playlist Order for YouTube
+[1]: https://github.com/DarrenWillows/-Reverse-Playlist-Order-for-YouTube/raw/master/ReverseYouTubePlaylist.js
+[2]: https://cloud.githubusercontent.com/assets/9222661/6228114/67b6385c-b697-11e4-8e5b-c6e6f9c0ab71.png "Reverse Prev"
 
 To use it you will need a userscript manager, like Tampermonkey or Greasemonkey.
 
@@ -7,13 +9,14 @@ Based on the Standalone YouTube Plus Reverse Playlist that is now dead.
 
 I created 1.0.3a as 1.0.3 has stopped working on Firefox and is no longer supported by the creator.
 
+Reference-style: 
+![2]
+
 ###Download
 
 Userscript: 
-[ReverseYouTubePlaylist.js][ReverseYouTubePlaylist.js]
-[ReverseYouTubePlaylist.js]: https://github.com/DarrenWillows/-Reverse-Playlist-Order-for-YouTube/raw/master/ReverseYouTubePlaylist.js
+[ReverseYouTubePlaylist.js][1]
 
-[prev]: https://cloud.githubusercontent.com/assets/9222661/6228114/67b6385c-b697-11e4-8e5b-c6e6f9c0ab71.png "Reverse Prev"
 
 ==UserScript==
 
