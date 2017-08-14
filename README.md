@@ -9,7 +9,8 @@ Based on the Standalone YouTube Plus Reverse Playlist that is now dead.
 
 I created 1.0.3a as 1.0.3 has stopped working on Firefox and is no longer supported by the creator.
 
-Reference-style: 
+Preview: 
+
 ![2]
 
 ###Download
