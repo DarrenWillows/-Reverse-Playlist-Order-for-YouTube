@@ -10,7 +10,7 @@ I created 1.0.3a as 1.0.3 has stopped working on Firefox and is no longer suppor
 ###Download
 
 Userscript: 
-ReverseYouTubePlaylist.js:https://github.com/DarrenWillows/-Reverse-Playlist-Order-for-YouTube/raw/master/ReverseYouTubePlaylist.js
+ReverseYouTubePlaylist.js: https://github.com/DarrenWillows/-Reverse-Playlist-Order-for-YouTube/raw/master/ReverseYouTubePlaylist.js
 
 ==UserScript==
 
