@@ -12,7 +12,6 @@
 (function () {
     'use strict';
     function add_Node(text, s_URL, funcToRun, type) {
-        console.log("addJS_Node text="+text+", s_URL="+s_URL+", funcToRun="+funcToRun+", type="+type);
         var D                                   = document;
         var scriptNode                          = D.createElement (type);
         if (text)       scriptNode.textContent  = text;
@@ -54,7 +53,6 @@
                 reverseControl();
             }
             function insertButton() {
-                console.log("insert button");
                 var playlistBar,
                     navControls,
                     spanWrapper,
