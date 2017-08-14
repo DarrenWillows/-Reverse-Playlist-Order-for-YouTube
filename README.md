@@ -1,4 +1,4 @@
-# -Reverse-Playlist-Order-for-YouTube
+# Reverse Playlist Order for YouTube
 
 To use it you will need a userscript manager, like Tampermonkey or Greasemonkey.
 
