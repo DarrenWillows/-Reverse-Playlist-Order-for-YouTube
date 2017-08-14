@@ -1,5 +1,7 @@
 # -Reverse-Playlist-Order-for-YouTube
 
+To use it you will need a userscript manager, like Tampermonkey or Greasemonkey.
+
 Creates a button on your playlists which allows you to reverse the order of the videos.
 Based on the Standalone YouTube Plus Reverse Playlist that is now dead.
 
